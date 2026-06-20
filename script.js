@@ -1,0 +1,1 @@
+console.log("Salah Tech Website Loaded");
